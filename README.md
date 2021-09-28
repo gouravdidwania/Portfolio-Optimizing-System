@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
-![image](https://user-images.githubusercontent.com/86877457/132400947-436793f0-dc39-4564-8758-ec70e54de0a0.jpg)
+![portfolio](https://user-images.githubusercontent.com/86877457/135084460-58cfd65c-5482-4b98-90e1-65ca10c88431.jpg)
 <br />
 <p align="center">
 
-  <h3 align="center">Portfolio-Optimizing-System</h3>
+  <h3 align="center">Portfolio Optimizing System</h3>
 
   <p align="center">
     In this project, I've tried to build a model to filter out specified number of bad stocks each month from our portfolio and add better performing stocks from a given wide range of stocks.
@@ -153,7 +153,7 @@ Sharpe Ratio is the average return earned in excess of the risk-free rate per un
 
 It adjusts a portfolio’s past performance—or expected future performance—for the excess risk that was taken by the investor. A high Sharpe ratio is good when compared to similar portfolios or funds with lower returns. The Sharpe ratio has several weaknesses, including an assumption that investment returns are normally distributed.
 
-![image](https://user-images.githubusercontent.com/86877457/135078637-4c17594a-56cc-4aba-98b0-10ac8cdac4ce.png)
+![image](https://user-images.githubusercontent.com/86877457/135083525-d8c9bf79-008f-4305-82a1-cd50e193f92b.png)
 
 I wrote a function to calculate the sharpe ratio
 
@@ -219,19 +219,22 @@ The performance of the index over last five years.
 
 ![image](https://user-images.githubusercontent.com/86877457/135080508-8faa6cb4-908d-4d6e-9a12-865d2e3fbf46.png)
 
-**Overall Monthly Returns for the Optimized Portfolio **
+**Overall Monthly Returns for the Optimized Portfolio**
 
 ![image](https://user-images.githubusercontent.com/86877457/135081021-cb7fd32c-431a-4a2a-8649-4688fff5f571.png)
 
 ### Result
 
-For the given portfolio, stocks, the values of n and x, it perfermoed quite well. the returns obtained from this was 0.3 % better. Our model efficiently showed the desired portfolio for each month.
-
-![image](https://user-images.githubusercontent.com/86877457/135081559-7886c0db-9590-44b5-aa38-00f01b785a1a.png)
+For the given portfolio, stocks, the values of n and x, it perfermoed quite well. the returns obtained from this was 0.3 % better. 
 
 ![image](https://user-images.githubusercontent.com/86877457/135081662-e750ad7f-4546-44ba-8583-5ee461c8ebbf.png)
 
+Our model efficiently showed the desired portfolio for each month.
+
+![image](https://user-images.githubusercontent.com/86877457/135081559-7886c0db-9590-44b5-aa38-00f01b785a1a.png)
+
 **KPIs**
+
 ![image](https://user-images.githubusercontent.com/86877457/135082967-7a3a35ed-bd94-4113-97eb-641d8c5ca5e5.png)
 
 
